@@ -4,7 +4,7 @@
 #
 Name     : mvn-servicemix-bundles
 Version  : 1.1.4c.6
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/org/apache/servicemix/bundles/org.apache.servicemix.bundles.xpp3/1.1.4c_6/org.apache.servicemix.bundles.xpp3-1.1.4c_6.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/servicemix/bundles/org.apache.servicemix.bundles.xpp3/1.1.4c_6/org.apache.servicemix.bundles.xpp3-1.1.4c_6.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/servicemix/bundles/bundles-pom/6/bundles-pom-6.pom
